@@ -1,0 +1,1 @@
+litecoin-cli sendrawtransaction $1

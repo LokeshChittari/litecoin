@@ -1,0 +1,1 @@
+litecoin-cli createrawtransaction $1 $2

@@ -1,0 +1,1 @@
+litecoin-cli setaccount $1 $2

@@ -1,0 +1,1 @@
+litecoin-cli getbalance $1

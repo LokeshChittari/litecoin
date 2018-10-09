@@ -1,0 +1,1 @@
+litecoin-cli getaddressesbyaccount $1
